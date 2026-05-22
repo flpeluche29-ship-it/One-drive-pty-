@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: ONE DRIVE PTY",
+  "description": "Premium executive transport and private tours in Panama. Airport transfers, corporate services, and personalized travel experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
